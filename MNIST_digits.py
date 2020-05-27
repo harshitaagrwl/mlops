@@ -103,7 +103,7 @@ tf= open('accuracy.txt','w')
 tf.write(str(new))
 tf.close()
 
-print('Trained')
+print('Model Trained')
 
 
 
